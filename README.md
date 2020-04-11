@@ -1,3 +1,3 @@
 # README
 
-This is where the FedRAMP PMO stores all original Microsoft Word documents.
+These are FedRAMP templates and additional templates/guides from different sources
