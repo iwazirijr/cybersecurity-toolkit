@@ -1,0 +1,15 @@
+# Legal
+
+Some of the tools on this USB/ISO can cause damage to computers and/or networks. Use at your own risk. Files on this USB/ISO may be infected with viruses or malware despite efforts to detect and eradicate them.
+
+By using this USB/ISO you agree to use its contents only for ethical and legal purposes. If you cannot agree to this, please return this USB/ISO to the instructor(s) immediately. Neither the host of this seminar nor its instructor(s) can be held liable for the misconduct of individuals using freely available tools downloadable from the Internet.
+
+Do not bring this USB/ISO into your place of employment, or use any of the tools on this USB/ISO on any computers or networks, without obtaining prior written permission from the owners or managers of those computers or networks.
+
+The presence of software on this USB/ISO, or the fact that it is distributed by the instructor(s), does not constitute an endorsement or recommendation of any kind by the instructor(s), the host(s) of the conference or seminar, and/or the organizations associated with the instructor(s) or conference host(s).
+
+If you find the utilities on this USB/ISO useful or continue to use them after this course, please register the products and purchase licenses.
+
+-------------------------------------------------
+
+THE SOFTWARE, SCRIPTS AND ACCOMPANYING FILES (IF ANY) ON THIS USB/ISO ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. NEITHER THE INSTRUCTOR NOR THE AUTHOR WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT ANY DEFECTS DISCOVERED IN THE SOFTWARE WILL BE CORRECTED. FURTHERMORE, THE INSTRUCTOR/AUTHOR DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE SOFTWARE IN TERMS OF ITS CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE. YOU ASSUME ALL RISKS IN USING THE SOFTWARE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY THE INSTRUCTOR/AUTHOR SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY. IN NO EVENT SHALL THE INSTRUCTOR/AUTHOR BE LIABLE FOR ANY DAMAGES WHATSOEVER INCLUDING DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, LOSS OF BUSINESS PROFITS OR SPECIAL DAMAGES, EVEN IF THE INSTRUCTOR/AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. CERTAIN STATES DO NOT PERMIT EXCLUSIONS OF IMPLIED WARRANTIES OR LIMITATIONS OF LIABILITY, SO THIS DISCLAIMER MAY NOT APPLY TO YOU OR MAY APPLY TO YOU ONLY IN PART. YOU MAY HAVE OTHER LEGAL RIGHTS WHICH VARY FROM STATE TO STATE.
