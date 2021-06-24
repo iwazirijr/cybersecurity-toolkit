@@ -2,7 +2,6 @@
 
 **Disclaimer:** I am not the original creator of some of these resources.
 
---
 These are collection of my personal tools, and publicly available resources (from multiple sources) meant to facilitate the USGov Cybersecurity Risk Management Framework (RMF) process.
 
 The toolkit includes:
