@@ -13,6 +13,5 @@ The toolkit includes:
 
 ## Disclaimer, Legal and Note:
 
-**Disclaimer:** I do not own, nor did I create some of these resources.
-
-**Note:** Some of these might be outdated, especially some of the templates and guidance. Please validate and verify before you proceed to using these.
+- **Disclaimer:** I do not own, nor did I create some of these resources.
+- **Note:** Some of these might be outdated, especially some of the templates and guidance. Please validate and verify before you proceed to using these.
